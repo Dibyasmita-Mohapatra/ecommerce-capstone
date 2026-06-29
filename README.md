@@ -8,24 +8,22 @@ It was developed as a Web Development Capstone Project to showcase industry-stan
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://your-project-name.vercel.app
-
-> Replace the above URL with your deployed Vercel/Netlify link.
+🔗 **Website:** https://ecommerce-capstone-ten.vercel.app/
 
 ---
 
 ## 📸 Project Preview
 
 ### Home Page
-![Home](docs/screenshots/home.png)
+<img width="1907" height="916" alt="Screenshot 2026-06-29 161601" src="https://github.com/user-attachments/assets/ccfe7a19-5a39-486e-a65a-a4b8fa61b9fc" />
+
 
 ### Product Page
-![Products](docs/screenshots/products.png)
+<img width="1902" height="912" alt="Screenshot 2026-06-29 161642" src="https://github.com/user-attachments/assets/c05e6796-2578-4596-9e3d-a8d2f0a16f26" />
+
 
 ### Shopping Cart
-![Cart](docs/screenshots/cart.png)
-
-> Create a `docs/screenshots/` folder and add screenshots after deployment.
+<img width="1906" height="912" alt="Screenshot 2026-06-29 161703" src="https://github.com/user-attachments/assets/f9c6d962-7ff8-4792-9d44-3c1a0bbc0aa5" />
 
 ---
 
